@@ -31,12 +31,12 @@ Initial setup:
 - Clone this repo and add compiled unitypackage_util and FBX2glTF to the root of the project
 - Check Inspector for `res://unitypackage_godot_config.res`
   - Debug Log:
-    - "On" for flashy console logs and debugging
-    - "Off" to run a little faster
+	- "On" for flashy console logs and debugging
+	- "Off" to run a little faster
   - Immediate Load Assets:
-    - "On" to build all prefabs/materials when loading packages
-    - "Off" to only build assets selected in the file picker
-    - `.unity` files must be manually selected to build either way
+	- "On" to build all prefabs/materials when loading packages
+	- "Off" to only build assets selected in the file picker
+	- `.unity` files must be manually selected to build either way
   - Default Open Path: Optional default location for file open dialog
 
 Import UnityPackage:

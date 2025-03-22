@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://ddufxghfwiryw"]
 
-[ext_resource type="Script" path="res://unitypackage_godot/scenes/browser/browser.gd" id="1_l3o00"]
+[ext_resource type="Script" uid="uid://bfb82tpfiqcht" path="res://unitypackage_godot/scenes/browser/browser.gd" id="1_l3o00"]
 
 [node name="Browser" type="Control"]
 layout_mode = 3

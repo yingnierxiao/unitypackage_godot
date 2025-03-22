@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="UPackGDConfig" load_steps=2 format=3 uid="uid://bh3tywpubyyv5"]
 
-[ext_resource type="Script" path="res://unitypackage_godot/lib/unitypackage/upackgd_config.gd" id="1_edp6l"]
+[ext_resource type="Script" uid="uid://2y5nuty0eumr" path="res://unitypackage_godot/lib/unitypackage/upackgd_config.gd" id="1_edp6l"]
 
 [resource]
 script = ExtResource("1_edp6l")

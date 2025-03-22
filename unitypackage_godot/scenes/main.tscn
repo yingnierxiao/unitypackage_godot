@@ -45,10 +45,10 @@ layout_mode = 2
 size = Vector2i(1296, 780)
 
 [node name="Console" type="RichTextLabel" parent="MarginContainer/HSplitContainer/VSplitContainer" node_paths=PackedStringArray("shortcut_context")]
+auto_translate_mode = 2
 visible = false
 custom_minimum_size = Vector2(100, 200)
 layout_mode = 2
-auto_translate = false
 localize_numeral_system = false
 focus_mode = 2
 shortcut_context = NodePath(".")

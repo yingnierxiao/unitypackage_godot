@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://ympl2lb5078y"]
 
-[ext_resource type="PackedScene" path="res://unitypackage_godot/scenes/viewer/viewer.tscn" id="1_f58vp"]
+[ext_resource type="PackedScene" uid="uid://c4vx1scd4c8qe" path="res://unitypackage_godot/scenes/viewer/viewer.tscn" id="1_f58vp"]
 
 [node name="Viewport" type="SubViewportContainer"]
 custom_minimum_size = Vector2(100, 100)
